@@ -13,11 +13,10 @@ body {
 
 .container {
     position: relative;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     max-width: 800px;
-    min-height: 600px;
     /* background-color: #fff; */
     padding: 10px;
 }
