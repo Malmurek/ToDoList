@@ -13,9 +13,9 @@ body {
 
 .container {
     position: relative;
-    top: 30%;
+    top: 10%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translateX(-50%);
     max-width: 800px;
     /* background-color: #fff; */
     padding: 10px;
